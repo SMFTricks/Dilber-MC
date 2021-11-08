@@ -34,7 +34,7 @@
 - Yellow
 
 ## Requirements
-* Dilber MC can be installed on SMF 2.0.x and SMF 1.1.x
+* Dilber MC can be installed on SMF 2.0.x or SMF 1.1.x
 
 ## How to install
 * You can install Dilber MC under Themes and Layout in your forum administration.
